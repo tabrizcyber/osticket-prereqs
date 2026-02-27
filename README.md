@@ -28,8 +28,48 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>Here is the screenshot of Vitual Machine created in Microsoft Azure Portal. I'll use this VM to install osTicket</p>
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/RDP.JPG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-This screenshot shows the process of me connecting remotely from my own PC to VM in Azure using public ip.
+<p>This screenshot shows the process of me connecting remotely from my own PC to VM in Azure using public ip.</p>
 </p>
+
+
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+</p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/IIS_CGI.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm instaling and enabling IIS with CGI. The steps are following:Expand Internet Information Services → World Wide Web Services → Application Development Features.
+Select CGI, click OK, and wait for installation..</p>
+</p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/install_PHP.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm installing PHP from the osTicket installing package, which is straight forward process as many other installation processes</p>
+</p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/PHP_Folder.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm creating PHP folder in drive C: so I can unzip the appropriate version of php with all the required files and folders to make it work on server side</p>
+</p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+</p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+</p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+</p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+</p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+</p>
+
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
