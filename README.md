@@ -30,22 +30,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/RDP.JPG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>This screenshot shows the process of connecting remotely from my own PC to the VM in Azure using the public IP address.</p>
+<p><i><strong>This screenshot shows the process of connecting remotely from my own PC to the VM in Azure using the public IP address.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here, I have logged into the VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+<p><i><strong>Here, I have logged into the VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/IIS_CGI.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here, I am installing and enabling IIS with CGI. The steps are as follows: Expand Internet Information Services → World Wide Web Services → Application Development Features. Select CGI, click OK, and wait for the installation to complete.</p>
+<p><i><strong>Here, I am installing and enabling IIS with CGI. The steps are as follows: Expand Internet Information Services → World Wide Web Services → Application Development Features. Select CGI, click OK, and wait for the installation to complete.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/install_PHP.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here, I am installing PHP from the osTicket installation package, which is a straightforward process similar to many other software installations.</p>
+<p><i><strong>Here, I am installing PHP from the osTicket installation package, which is a straightforward process similar to many other software installations.</strong></i></p>
 </p>
 
 <p>
@@ -60,68 +60,68 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/inetRoot.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here, I am unzipping the “osTicket-v1.15.8.zip” folder and copying the “upload” folder into “C:\inetpub\wwwroot”.</p>
+<p><i><strong>Here, I am unzipping the “osTicket-v1.15.8.zip” folder and copying the “upload” folder into “C:\inetpub\wwwroot”.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/Browse80.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>After unzipping the folder, I reload IIS and browse port 80.</p>
+<p><i><strong>After unzipping the folder, I reload IIS and browse port 80.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/osTicketFirstView.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>This is how osTicket initially looks. We can notice that some required extensions have not been installed yet, which leads to the next steps.</p>
+<p><i><strong>This is how osTicket initially looks. We can notice that some required extensions have not been installed yet, which leads to the next steps.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/extensions.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here, I am enabling several PHP extensions. By double-clicking PHP Manager within IIS and selecting “Enable or disable an extension”, I enable the following extensions: php_imap.dll, php_intl.dll, and php_opcache.dll.</p>
+<p><i><strong>Here, I am enabling several PHP extensions. By double-clicking PHP Manager within IIS and selecting “Enable or disable an extension”, I enable the following extensions: php_imap.dll, php_intl.dll, and php_opcache.dll.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/ostconfig.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here, I am renaming ost-sampleconfig.php from: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to “ost-config.php”.</p>
+<p><i><strong>Here, I am renaming ost-sampleconfig.php from: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to “ost-config.php”.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/Permissions.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here, I am disabling inheritance using the Advanced Security Settings in the folder properties.</p>
+<p><i><strong>Here, I am disabling inheritance using the Advanced Security Settings in the folder properties.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/NewPermision.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>This shows the new permission settings, granting Everyone full access.</p>
+<p><i><strong>This shows the new permission settings, granting Everyone full access.</strong></i></p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/continueInstallationOsTicket.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Here are some steps to continue the osTicket installation, such as registering a user within the platform.</p>
+<p><i><strong>Here are some steps to continue the osTicket installation, such as registering a user within the platform.</strong></i></p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/HeidiSql.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Here, I am installing HeidiSQL to create the database.</p>
+<p><i><strong>Here, I am installing HeidiSQL to create the database.</strong></i></p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/SqlDatabase.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Here, I have finished creating the database.</p>
+<p><i><strong>Here, I have finished creating the database.</strong></i></p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/signing_in.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Here, I am signing into the osTicket admin panel.</p>
+<p><i><strong>Here, I am signing into the osTicket admin panel.</strong></i></p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/adminPanel.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>This is the actual interface of the osTicket control panel.</p>
+<p><i><strong>This is the actual interface of the osTicket control panel.</strong></i></p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/UserPortal.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>And this is the user panel portal to create tickets and highlight issues.</p>
+<p><i><strong>And this is the user panel portal to create tickets and highlight issues.</strong></i></p>
 
 
 
