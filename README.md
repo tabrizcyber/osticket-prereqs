@@ -73,9 +73,17 @@ Select CGI, click OK, and wait for installation..</p>
 <img src="https://github.com/tabrizcyber/images/blob/main/ostconfig.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>Here I'm renaming ost-sampleconfig.php from: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to "ost-config.php" </p>
 <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/extensions.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here I'm enabling few PHP extensions.Just double click on PHP Manager within IIS and click "enable or disable an extension". Extensions are following:php_imap.dll, php_intl.dll, php_opcache.dll
+<img src="https://github.com/tabrizcyber/images/blob/main/Permissions.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm disambling inheritance with advance sections of security in properties</p>
 </p>
+<img src="https://github.com/tabrizcyber/images/blob/main/NewPermision.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>And this is new permission for eceryone with full access</p>
+
+<img src="https://github.com/tabrizcyber/images/blob/main/continueInstallationOsTicket.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here some steps to continue installation is osTicket like registering user within the platform</p>
+
+<img src="https://github.com/tabrizcyber/images/blob/main/HeidiSql.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm installing HeidiSql to create database</p>
 </p>
 
 
