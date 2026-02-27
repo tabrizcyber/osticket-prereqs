@@ -112,17 +112,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/tabrizcyber/images/blob/main/signing_in.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Here, I am signing into the osTicket admin panel.</p>
-https://github.com/tabrizcyber/images/blob/main/UserPortal.PNG
-<p>
-  <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/UserPortal.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>And this is the user panel portal to create ticket and highlight issues.</p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/adminPanel.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is the actual interface of the osTicket control panel.</p>
+
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/UserPortal.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>And this is the user panel portal to create tickets and highlight issues.</p>
+
+
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
