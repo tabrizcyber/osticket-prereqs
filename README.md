@@ -50,12 +50,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/PHP_Folder.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here, I am creating a PHP folder in drive C: so I can unzip the appropriate version of PHP with all the required files and folders to make it work on the server side.</p>
+<p><i><strong>Here, I am creating a PHP folder in drive C: so I can unzip the appropriate version of PHP with all the required files and folders to make it work on the server side.</strong></i></p>
 </p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/upgradingPHP.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here, I am installing and configuring PHP within IIS (PHP Manager → C:\PHP\php-cgi.exe).</p>
+<p><i><strong>Here, I am installing and configuring PHP within IIS (PHP Manager → C:\PHP\php-cgi.exe).</strong></i></p>
 </p>
 
 <p>
