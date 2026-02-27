@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 <img src="https://github.com/tabrizcyber/images/blob/main/VirtualMachine.JPG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Here is the screenshot of Vitual Machine created in Microsoft Azure Portal. I'll use this VM to install osTicket
+<p>Here is the screenshot of Vitual Machine created in Microsoft Azure Portal. I'll use this VM to install osTicket</p>
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/RDP.JPG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 This screenshot shows the process of me connecting remotely from my own PC to VM in Azure using public ip.
