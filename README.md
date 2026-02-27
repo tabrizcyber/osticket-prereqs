@@ -50,24 +50,32 @@ Select CGI, click OK, and wait for installation..</p>
 <p>Here I'm creating PHP folder in drive C: so I can unzip the appropriate version of php with all the required files and folders to make it work on server side</p>
 </p>
 <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+<img src="https://github.com/tabrizcyber/images/blob/main/upgradingPHP.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm installing and upgrading PHP within IIS(PHP Manager -> C:\PHP\php-cgi.exe)</p>
 </p>
 <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+<img src="https://github.com/tabrizcyber/images/blob/main/inetRoot.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm unzipping “osTicket-v1.15.8.zip” folder and copy the “upload” folder into “c:\inetpub\wwwroot”</p>
 </p>
 <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+<img src="https://github.com/tabrizcyber/images/blob/main/Browse80.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>After unzipping the folder I'm reloading the IIS and browsing port(80).</p>
 </p>
 <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+<img src="https://github.com/tabrizcyber/images/blob/main/osTicketFirstView.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>And this is how osTicket actually looks like. We might notice that some extensions haven't been installed so guess the next steps</p>
 </p>
 <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/osTicketExtracting.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here I've logged in VM, and the screenshot shows the process of extracting files from osTicket-installation-files.zip.</p>
+<img src="https://github.com/tabrizcyber/images/blob/main/extensions.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm enabling few PHP extensions.Just double click on PHP Manager within IIS and click "enable or disable an extension". Extensions are following:php_imap.dll, php_intl.dll, php_opcache.dll
+</p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/ostconfig.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm renaming ost-sampleconfig.php from: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to "ost-config.php" </p>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/extensions.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here I'm enabling few PHP extensions.Just double click on PHP Manager within IIS and click "enable or disable an extension". Extensions are following:php_imap.dll, php_intl.dll, php_opcache.dll
+</p>
 </p>
 
 
