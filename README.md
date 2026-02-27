@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <img src="https://github.com/tabrizcyber/images/blob/main/VirtualMachine.JPG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>Here is the screenshot of the Virtual Machine created in the Microsoft Azure Portal. I will use this VM to install osTicket.</p>
+<p><i><strong>Here is the screenshot of the Virtual Machine created in the Microsoft Azure Portal. I will use this VM to install osTicket.</strong></i></p>
 
 <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/RDP.JPG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
