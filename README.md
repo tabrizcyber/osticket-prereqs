@@ -76,14 +76,25 @@ Select CGI, click OK, and wait for installation..</p>
 <img src="https://github.com/tabrizcyber/images/blob/main/Permissions.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>Here I'm disambling inheritance with advance sections of security in properties</p>
 </p>
-<img src="https://github.com/tabrizcyber/images/blob/main/NewPermision.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://github.com/tabrizcyber/images/blob/main/NewPermision.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>And this is new permission for eceryone with full access</p>
 
-<img src="https://github.com/tabrizcyber/images/blob/main/continueInstallationOsTicket.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img
+     src="https://github.com/tabrizcyber/images/blob/main/continueInstallationOsTicket.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>Here some steps to continue installation is osTicket like registering user within the platform</p>
 
-<img src="https://github.com/tabrizcyber/images/blob/main/HeidiSql.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img src="https://github.com/tabrizcyber/images/blob/main/HeidiSql.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>Here I'm installing HeidiSql to create database</p>
+
+<p><img src="https://github.com/tabrizcyber/images/blob/main/SqlDatabase.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>Here I'm done with databases</p>
+
+<p><img src="https://github.com/tabrizcyber/images/blob/main/signing_in.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>Here I'm signing in to admin panel of osTicket</p>
+
+<p><img src="https://github.com/tabrizcyber/images/blob/main/adminPanel.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>And this is the acrual look of osTicket control panel</p>
 </p>
 
 
