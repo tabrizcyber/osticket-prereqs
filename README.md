@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - 5. After installations we have to configure IIS and setup Localhost Web Server.
 
 <h2>Installation Steps</h2>
-
+<img src="https://github.com/tabrizcyber/images/blob/main/VirtualMachine.JPG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>![Capture](https://github.com/user-attachments/assets/84bf1018-8fe6-4d71-89c4-a48fa874ce74)
